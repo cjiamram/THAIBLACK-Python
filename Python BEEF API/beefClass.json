@@ -1,0 +1,28 @@
+{
+	"root":"D:/Backup/Thai Black/",
+    "parentPath":"D:/Backup/Thai Black/",
+    "imgPath":"D:/xampp/htdocs/beefUpload/",
+    "linkPath":"http://nrruapp.nrru.ac.th/",
+	"modelFile":"beefModel/model_BeefGrade.hdf5",
+	"CLASSES":[
+    {"class":"G000","weight":0},
+    {"class":"G100","weight":1},
+    {"class":"G200","weight":2},
+    {"class":"G225","weight":2.25},
+    {"class":"G250","weight":2.50},
+    {"class":"G275","weight":2.75},
+    {"class":"G350","weight":3.50},
+    {"class":"G375","weight":3.75},
+    {"class":"G400","weight":4},
+    {"class":"G425","weight":4.25}]
+    ,
+    "ELements":[
+        {"index":0,"elementName":"Beef","min":60,"max":160},
+        {"index":1,"elementName":"Fat","min":160,"max":250},
+        {"index":2,"elementName":"Undefine"}
+    ]
+
+
+
+
+}

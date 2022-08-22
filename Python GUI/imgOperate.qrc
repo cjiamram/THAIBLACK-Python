@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="img"/>
+  <qresource prefix="White">
+    <file>Img/White.png</file>
+  </qresource>
+  <qresource prefix="Green">
+    <file>Img/Button.png</file>
+  </qresource>
+  <qresource prefix="BG">
+    <file>Img/T.jpg</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+{
+        "fileConfig":{
+            "urlUpload":"http://nrruapp.nrru.ac.th/NRRUCredential/remoteCreateDIR.php?folder=",
+            "pathUpload":"/var/www/html/beefUpload/"
+        },
+       
+        
+        "hostConfig":{"ip":"202.29.4.240","user":"root" ,"password":"Nrruspare@2017"}
+        
+       
+
+}

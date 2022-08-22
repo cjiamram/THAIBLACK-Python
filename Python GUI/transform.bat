@@ -1,0 +1,1 @@
+pyuic5 -x .\QTScan.ui -o scan-04.py

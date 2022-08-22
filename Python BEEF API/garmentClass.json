@@ -1,0 +1,27 @@
+{
+	"ModelFile":"garmentModel/model_R9.hdf5",
+	"CLASSES":[
+		{"Key":"A","File":"garmentModel/AModel/model_A_1.hdf5"},
+		{"Key":"AA","File":""},
+		{"Key":"B","File":"garmentModel/BModel/model_B.hdf5"},
+		{"Key":"BB","File":"garmentModel/BBModel/model_BB.hdf5"},
+		{"Key":"C","File":"garmentModel/CModel/model_C.hdf5"},
+		{"Key":"CC","File":"garmentModel/CCModel/model_CC.hdf5"},
+		{"Key":"DD","File":"garmentModel/DDModel/model_DD.hdf5"},
+		{"Key":"E","File":"garmentModel/EModel/model_E.hdf5"},
+		{"Key":"EE","File":"garmentModel/EEModel/model_EE.hdf5"},
+		{"Key":"KK","File":"garmentModel/KKModel/model_KK.hdf5"},
+		{"Key":"N","File":"garmentModel/NModel/model_N.hdf5"}
+	],
+	"A":["A01","A02","A03","A04"],
+	"AA":["AA02"],
+    "B":["B01", "B02","B04", "B06", "B03", "B07", "B05"],
+    "BB":["BB04","BB05"],
+    "C":["C01","C02","C03","C04"],
+    "CC":["CC02","CC03","CC05"], 
+    "DD":["DD02", "DD03","DD04", "DD05"],
+    "E":["E01", "E02","E03", "E04"],
+    "EE":["EE01", "EE03","EE04", "EE05","EE06","EE07","EE08","EE09"],  
+    "KK":["KK01","KK02","KK03","KK04","KK05"],
+    "N":["N01","N04"] 
+}
